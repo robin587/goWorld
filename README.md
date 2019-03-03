@@ -1,2 +1,2 @@
 # goWorld
-go lang code for reference
+go lang exploratory works
